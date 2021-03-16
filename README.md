@@ -1,4 +1,4 @@
-### When all else fails … reboot
+### When all else 👊 fails 💻 reboot
 
 <!--
 **sahir/sahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
