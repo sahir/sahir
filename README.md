@@ -18,3 +18,18 @@ Here are some ideas to get you started:
 
 
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/sahir/sahir/blob/main/sahir.gif" width="100%">
+
+## 📌 GitHub Stats and Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=sahir&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahir&layout=compact&theme=dark" />
+</p>
+
+
+
+## 📫 How to reach me
+
+You can find and get touch with me on these accounts 👀
+
+[![LinkedIn Badge](https://img.shields.io/badge/sahir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergei-ermolaev-330a54184/)
