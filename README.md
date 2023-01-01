@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/sahir/sahir/blob/main/sahir.gif" width="50%">
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/sahir/sahir/blob/main/sahir.gif" width="20%">
 
 ## 📌 GitHub Stats and Top Languages
 
