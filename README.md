@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 You can find and get touch with me on these accounts 👀
 
-[![LinkedIn Badge](https://img.shields.io/badge/sahir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sergei-ermolaev-330a54184/)
+[![LinkedIn Badge](https://img.shields.io/badge/sahir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahir-saiyed-5347b220/)
