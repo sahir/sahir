@@ -1,6 +1,6 @@
 ### When all else 👊 fails 💻 reboot
 
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/sahir/sahir/blob/main/sahir.gif" width="20%">
+<img src="https://github.com/sahir/sahir/blob/main/sahir.gif" width="25%"/>
 
 ## 📌 GitHub Stats and Top Languages
 
