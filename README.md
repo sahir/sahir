@@ -9,6 +9,11 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahir&layout=compact&theme=dark" />
 </p>
 
+<b>GitHub Profile Visitor Counter</b>
+<br><br>
+![Visitor Count](https://profile-counter.glitch.me/{iarc13}/count.svg)
+<br><br>
+
 ## 📫 How to reach me
 
 You can find and get touch with me on these accounts 👀
